@@ -15,17 +15,13 @@ h1 {
     text-align: center;
 }
 
-body {
+.body {
     text-align: left;
     margin-left: 250px;
     margin-right: 250px;
-    color: rgb(221, 221, 221);
 }
 
 pre {
     text-align: center;
-}
-
-html {
-    background-color: rgb(31, 31, 31);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
