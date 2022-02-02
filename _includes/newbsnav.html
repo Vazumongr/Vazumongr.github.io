@@ -1,0 +1,9 @@
+<nav class="navbar navbar-expand-lg bg-dark" style="margin-top: 200px;">
+    <div class="navbar-nav" style="margin:auto">
+        {% for lic in site.data.externLinks %}
+            <a class="navbar-text" href="{{ lic.link }}">
+                {{ lic.name }}
+            </a>
+        {% endfor %}
+    </div>
+</nav>

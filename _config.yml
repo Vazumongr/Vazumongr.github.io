@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: The Zumon
-description: Initial setup
+sass:
+  sass_dir: assets/css
+
+collections:
+  descriptions:

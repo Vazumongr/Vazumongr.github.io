@@ -1,0 +1,50 @@
+.currentPage {
+    color:rgb(0, 255, 85);
+}
+
+.navbar-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.notCurrentPage {
+    color:rgb(135, 166, 252);
+}
+
+.projectHeader { color:gold; margin-bottom: 25px;}
+
+.myCenterText { width:auto; text-align: center;}
+
+.myLeftText { width:auto; text-align: left;}
+
+.myCenterImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+.imageSizer {
+    width: 100%;
+}
+
+.bg-lightdark { 
+    --bs-bg-opacity: 1; 
+    background-color: rgb(117, 116, 116);
+}
+
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 50%;
+}
+
+.carousel-control-prev { 
+    justify-content: left;
+}
+
+.carousel-control-next { 
+    justify-content: right; 
+}

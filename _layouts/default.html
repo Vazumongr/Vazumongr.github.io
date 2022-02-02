@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+        
+    </head>
+    <body class="bg-lightdark">
+        {% include bsnav.html %}
+        <div style="width: 75%; margin:auto; align-content: center; text-align: center;">
+            {{ content }}
+        </div>
+        {% include newbsnav.html %}
+
+    </body>
+</html>
