@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg bg-dark fixed-bottom" style="margin-top: 200px;">
     <div class="navbar-nav" style="margin:auto">
-        {% for lic in site.data.externLinks %}
-            <a class="navbar-text" href="{{ lic.link }}">
-                {{ lic.name }}
+        {% for link in site.data.externLinks %}
+            <a class="navbar-text" href="{{ link.link }}">
+                <img src={{ link.icon }}>
             </a>
         {% endfor %}
     </div>
