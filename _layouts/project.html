@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-
-<h1 class="projectHeader myCenterText" > {{ page.projectName }}</h1>
-
 <div class="row">
     <div class="column">
         {% include imagecarousel.html %}
         <!-- <img class="myCenterImage" src="{{ page.image }}" alt="{{ page.imageAlt }}"> -->
     </div>
-    <div class="column myLeftText">
+    <div class="column myLeftText projectDescription">
         {% assign proj = site.descriptions | where: 'projectName', page.projectName | first %}
         {% if proj %}
             {{ proj.content | markdownify }}

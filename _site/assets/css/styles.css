@@ -2465,6 +2465,12 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + 2px); }
 
 .column { flex: 50%; }
 
+.projectDescription { background-color: #666666; }
+
+.pageHeader { color: black; background-color: #474747; width: 250px; margin: auto; margin-bottom: 20px; margin-top: 20px; }
+
+.headerBackground { background-color: red; }
+
 .carousel-control-prev { justify-content: left; }
 
 .carousel-control-next { justify-content: right; }
