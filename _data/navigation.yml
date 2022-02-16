@@ -4,5 +4,9 @@
   link: /FourWine.html
 - name: Coop Arena
   link: /CoopArena.html
-- name: New Proj
-  link: /NewProj.html
+#- name: New Proj
+#  link: /NewProj.html
+- name: Toon Tanks
+  link: /ToonTanks.html
+- name: Capstone
+  link: /Capstone.html
