@@ -2443,11 +2443,11 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + 2px); }
 
 @media print { .d-print-inline { display: inline !important; } .d-print-inline-block { display: inline-block !important; } .d-print-block { display: block !important; } .d-print-grid { display: grid !important; } .d-print-table { display: table !important; } .d-print-table-row { display: table-row !important; } .d-print-table-cell { display: table-cell !important; } .d-print-flex { display: flex !important; } .d-print-inline-flex { display: inline-flex !important; } .d-print-none { display: none !important; } }
 
-.currentPage { color: #00ff55; }
+.navbar-text { margin-left: 10px; margin-right: 10px; padding-left: 8px; padding-right: 8px; height: min-content; border-color: white; border-radius: 10px; border-width: 2px; border-style: solid; text-decoration: none; background-color: #535353; }
 
-.navbar-text { margin-left: 10px; margin-right: 10px; }
+.currentPage { color: #00ff55; border-color: #00ff55; }
 
-.notCurrentPage { color: #87a6fc; }
+.notCurrentPage { color: #87a6fc; border-color: #87a6fc; }
 
 .projectHeader { color: gold; margin-bottom: 25px; }
 

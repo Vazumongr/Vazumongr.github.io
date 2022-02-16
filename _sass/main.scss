@@ -1,15 +1,27 @@
-.currentPage {
-    color:rgb(0, 255, 85);
-}
-
 .navbar-text {
     margin-left: 10px;
     margin-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: min-content;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
     text-decoration: none;
+    background-color: rgb(83, 83, 83);
+    
 }
+
+.currentPage {
+    color:rgb(0, 255, 85);
+    border-color: rgb(0, 255, 85);
+}
+
 
 .notCurrentPage {
     color:rgb(135, 166, 252);
+    border-color: rgb(135, 166, 252);
 }
 
 .projectHeader { color:gold; margin-bottom: 25px;}
