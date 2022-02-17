@@ -1,7 +1,7 @@
-<nav class="navbar navbar-expand-lg bg-dark">
+<nav class="navbar navbar-expand-lg my-navbar-dark">
       <div class="navbar-nav" style="margin:auto">
         {% for proj in site.data.navigation %}
-        <a href="{{ proj.link }}" 
+        <a href="{{ proj.link }}"
             {% if page.url == proj.link %}
                 class="currentPage navbar-text"
             {% else %}

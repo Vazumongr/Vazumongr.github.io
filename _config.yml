@@ -3,3 +3,8 @@ sass:
 
 collections:
   descriptions:
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

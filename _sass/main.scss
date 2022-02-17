@@ -10,19 +10,11 @@
     border-style: solid;
     text-decoration: none;
     background-color: rgb(83, 83, 83);
-    
 }
 
-.currentPage {
-    color:rgb(0, 255, 85);
-    border-color: rgb(0, 255, 85);
-}
+.currentPage { color:#00ff95; border-color: #00ff95; }
 
-
-.notCurrentPage {
-    color:rgb(135, 166, 252);
-    border-color: rgb(135, 166, 252);
-}
+.notCurrentPage { color:#04993d; border-color: #04993d; }
 
 .projectHeader { color:gold; margin-bottom: 25px;}
 
@@ -30,29 +22,17 @@
 
 .myLeftText { width:auto; text-align: left;}
 
-.myCenterImage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
+.myCenterImage { display: block; margin-left: auto; margin-right: auto; width: 100%; }
 
-.imageSizer {
-    width: 100%;
-}
+.imageSizer { width: 100%; }
 
-.bg-lightdark { 
-    --bs-bg-opacity: 1; 
-    background-color: rgb(117, 116, 116);
-}
+.bg-lightdark { --bs-bg-opacity: 1; background-color: rgb(117, 116, 116); }
 
-.row {
-    display: flex;
-}
+.my-navbar-dark { --bs-bg-opacity: 1; background-color: rgb(22, 22, 22);}
+
+.row { display: flex; }
   
-.column {
-    flex: 50%;
-}
+.column { flex: 50%; }
 
 .projectDescription { background-color: rgb(102, 102, 102);}
 
@@ -60,10 +40,8 @@
 
 .headerBackground { background-color: red;}
 
-.carousel-control-prev { 
-    justify-content: left;
-}
+.carousel-control-prev { justify-content: left; }
 
-.carousel-control-next { 
-    justify-content: right; 
-}
+.carousel-control-next { justify-content: right; }
+
+a:hover { background-color: rgb(48, 48, 48); color:aquamarine}
