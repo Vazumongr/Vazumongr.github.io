@@ -3,9 +3,9 @@
         {% for proj in site.data.navigation %}
         <a href="{{ proj.link }}"
             {% if page.url == proj.link %}
-                class="currentPage navbar-text"
+                class="navbar-anchor currentPage navbar-text"
             {% else %}
-                class="notCurrentPage navbar-text"
+                class="navbar-anchor notCurrentPage navbar-text"
             {% endif %}>
             {{ proj.name }}
         </a>

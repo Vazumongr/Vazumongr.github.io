@@ -1,4 +1,9 @@
 .navbar-text {
+    height: min-content;
+    text-decoration: none;
+}
+
+.navbar-anchor {
     margin-left: 10px;
     margin-right: 10px;
     padding-left: 8px;
@@ -8,7 +13,6 @@
     border-radius: 10px;
     border-width: 2px;
     border-style: solid;
-    text-decoration: none;
     background-color: rgb(83, 83, 83);
 }
 
@@ -44,4 +48,5 @@
 
 .carousel-control-next { justify-content: right; }
 
-a:hover { background-color: rgb(48, 48, 48); color:aquamarine}
+
+.navbar-anchor:hover { background-color: rgb(48, 48, 48); color:aquamarine}
