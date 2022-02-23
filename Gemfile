@@ -5,6 +5,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "jekyll", "~> 4.2"
+gem "minima"
 
 group :jekyll_plugins do
     gem 'jekyll-sitemap'

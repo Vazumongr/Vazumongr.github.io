@@ -1,6 +1,13 @@
+* {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
+}
+
 .navbar-text {
     height: min-content;
     text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: 400;
 }
 
 .navbar-anchor {
@@ -11,14 +18,14 @@
     height: min-content;
     border-color: rgb(255, 255, 255);
     border-radius: 10px;
-    border-width: 2px;
-    border-style: solid;
-    background-color: rgb(83, 83, 83);
+    border-width: 1px;
+    border-style: none;
+    /* background-color: rgb(83, 83, 83); */
 }
 
-.currentPage { color:#00ff95; border-color: #00ff95; }
+.currentPage { color:#ffffff; /* border-color: #00ff95; */ }
 
-.notCurrentPage { color:#04993d; border-color: #04993d; }
+.notCurrentPage { color:#a8a8a8; /* border-color: #04993d; */ }
 
 .projectHeader { color:gold; margin-bottom: 25px;}
 
@@ -38,9 +45,9 @@
   
 .column { flex: 50%; }
 
-.projectDescription { background-color: rgb(102, 102, 102);}
+.projectDescription { font-size: large; color: rgb(0, 0, 0)/* background-color: rgb(102, 102, 102); */}
 
-.pageHeader { color: rgb(0, 0, 0); background-color: rgb(71, 71, 71); width: 250px; margin: auto; margin-bottom: 20px; margin-top: 20px;}
+.pageHeader { color: rgb(0, 0, 0); /* background-color: rgb(71, 71, 71); */ width: 250px; margin: auto; margin-bottom: 20px; margin-top: 20px;}
 
 .headerBackground { background-color: red;}
 
@@ -49,4 +56,4 @@
 .carousel-control-next { justify-content: right; }
 
 
-.navbar-anchor:hover { background-color: rgb(48, 48, 48); color:aquamarine}
+.navbar-anchor:hover { background-color: rgb(48, 48, 48); color:aquamarine; filter: brightness(1) sepia(1) saturate(100%) hue-rotate(120deg) }
