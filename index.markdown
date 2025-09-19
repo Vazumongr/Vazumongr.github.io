@@ -12,13 +12,13 @@ layout: index
 </div>
 
 <p>
-I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. It is very much a work in progress.
+I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress.</strong>
 </p>
 
 <p> 
 By trade, I'm a C++ Engineer that's been working in Unreal Engine 
 for the last 5 years and have worked on 3 different titles as a bit of a generalist during my last job at NetherRealm Studios: 
-Mortal Kombat: Onslaught (Shipped this one), Mortal Kombat: Mobile, and an unnanounced project.
+Mortal Kombat: Onslaught, Mortal Kombat: Mobile, and an unnanounced project.
 </p>
 
 <p>

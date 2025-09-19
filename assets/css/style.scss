@@ -107,9 +107,15 @@
 .main_content {
     color: #ffffff;
     position: relative;
-    max-width: 1080px;
+    max-width: 1200px;
     // padding: 20px 10px;
     margin: 0 auto;
+    border-color:#72BE81;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom:#0000;
+    border-top:#0000;
+    padding: 20px;
 }
 
 .main_content h1 {
@@ -119,6 +125,12 @@
 .main_content p {
     color: white;
     font-size: larger;
+    //margin: 0px;
+}
+
+.main_content a {
+    color: #37D0E1;
+    text-decoration: underline;
 }
 
 .main_wrap {
@@ -136,7 +148,7 @@ body {
     box-sizing: border-box;
     color: #373737;
     background: #003833;
-    font-size: 16px;
+    font-size: 14px;
     font-family: "Noto Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -189,10 +201,12 @@ body {
 .page-title {
     display: flex;
     justify-content: center;
+    height: min-content;
 }
 
-.page-title {
+.page-title p {
     font-size: 50px;
+    margin: 0px;
 }
 
 .outer { width: 100%; }
