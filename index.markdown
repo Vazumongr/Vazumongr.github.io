@@ -12,7 +12,7 @@ layout: index
 </div>
 
 <p>
-I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress.</strong>
+I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress.</strong> However, if you're a recruiter of some sort, I am in search of a full-time job at the moment so my <a href="workhistory">work history</a> and <a href="https://github.com/Vazumongr">github</a> may be of interest.
 </p>
 
 <p> 
@@ -24,9 +24,9 @@ Mortal Kombat: Onslaught, Mortal Kombat: Mobile, and an unnanounced project.
 <p>
 Outside of communing with the machine spirit to invoke the will of fun games, I also
 like to dabble into music composition (I do play several instruments as well but don't record any of it (u_u') ),
-art, UI/UX, and obviously game design like most of those in the industry. Snippets of which can be find on this very site!
+art, UI/UX, and obviously game design like most of those in the industry. Snippets of which can be found on this very site!
 </p>
 
 <p>
-Some other potential interesting things to check out
+
 </p>
