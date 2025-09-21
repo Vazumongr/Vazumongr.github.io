@@ -12,7 +12,7 @@ layout: index
 </div>
 
 <p>
-I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress.</strong> However, if you're a recruiter of some sort, I am in search of a full-time job as an engineer (preferably C++) at the moment so my <a href="workhistory">work history</a> and <a href="https://github.com/Vazumongr">github</a> may be of interest.
+I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress.</strong> However, if you're a recruiter of some sort, I am in search of a full-time job as an engineer (preferably C++) at the moment so my <a href="workhistory">work history</a> and <a href="https://github.com/Vazumongr">github</a> may be of interest. I can be contacted at <a href="mailto:vazumongr@gmail.com">vazumongr@gmail.com</a>.
 </p>
 
 <p> 
