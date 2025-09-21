@@ -28,5 +28,5 @@ art, UI/UX, and obviously game design like most of those in the industry. Snippe
 </p>
 
 <p>
-You can find various pages related to Unreal in some way in the tab conveniently labeled "Unreal Stuff". You'll find miscellanous projects such as modding projects in the tab also conveniently labeled "Misc Projects". My naming schemes are unreal, I know ;).
+You can find various pages related to Unreal in some way in the tab conveniently labeled "Unreal Stuff". You'll find miscellanous projects such as modding projects in the tab also conveniently labeled "Misc Projects". My naming schemes are unreal, I know.
 </p>
