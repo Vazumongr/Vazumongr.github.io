@@ -99,9 +99,17 @@
     display: block;
     align-items: center;
     position: relative;
-    width: 1080px;
+    width: 1200px;
     padding: 20px 0px;
     margin: 0 auto;
+}
+
+.header-icon {
+    border-style: none;
+    box-shadow: none;
+    height: 48px;
+    padding: 0px;
+    margin: 0px;
 }
 
 .main_content {
@@ -126,6 +134,42 @@
     color: white;
     font-size: larger;
     //margin: 0px;
+}
+
+.work_history p {
+    font-size: 14px;
+}
+
+.language_section {
+    width: 35%;
+    padding: 0px 10px;
+    border-style: dotted;
+    border-color:#72BE81;
+    border-width: 1px;
+    margin: 0px;
+}
+
+.language_section .heading {
+    font-size: 16px;
+    margin: 0px 0px 5px 0px;
+}
+
+.language_section .contents {
+    font-size: 14px;
+    margin: 0px 0px 15px 0px;
+}
+
+.experience_section {
+    padding: 0px 20px 20px;
+}
+
+.experience_section .heading {
+    font-size: 20px;
+    margin: 0px 0px 5px 0px;
+}
+
+.experience_section li {
+    font-size: 15px;
 }
 
 .main_content a {

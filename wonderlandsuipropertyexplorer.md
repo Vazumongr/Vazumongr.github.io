@@ -7,7 +7,7 @@ title: Wonderlands UI Property Explorer
     <a href="https://github.com/Vazumongr/Wonderlands-UI-Property-Explorer">https://github.com/Vazumongr/Wonderlands-UI-Property-Explorer</a>
 </div>
 
-<div style="height:50px;"></div>
+<div style="height:20px;"></div>
 
 <p> Wonderlands UI Property Explorer is a modding tool that allows the runtime inspection of UI data for Gearbox's Tiny Tina's Wonderlands. </p>
 
