@@ -1,4 +1,0 @@
----
-layout: minutum
-title: Minutum
----
