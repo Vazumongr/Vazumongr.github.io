@@ -12,7 +12,7 @@ layout: index
 </div>
 
 <p>
-I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress, I just started making it September 16th.</strong> However, if you're a recruiter of some sort, I am in search of a full-time job as an engineer (preferably C++) at the moment so my <a href="workhistory">work history</a> and <a href="https://github.com/Vazumongr">GitHub</a> may be of interest. I can be contacted at <a href="mailto:vazumongr@gmail.com">vazumongr@gmail.com</a>.
+I'm Vazumongr, often called Vazu for short, and this site serves as my personal "cove" of all miscellaneous creation-adjacent things. <strong>It is very much a work in progress, I just started making it September 16th.</strong> However, if you're a recruiter of some sort, I am in search of a full-time job as an engineer (preferably C++) at the moment so my <a href="workhistory">work history</a> and <a href="https://github.com/Vazumongr">GitHub</a> may be of interest. I can be contacted at <a href="mailto:vazumongr@gmail.com">vazumongr@gmail.com</a>. <br>*<em>Google is currently being a royal PITA and I am unable to check that email at the moment despite multiple forms of authentication. I apologize for any delays in responding as I painstakingly deal with Google to try and resolve this.</em>
 </p>
 
 <p> 
